@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **boogie.bogiegie@gmail.com**
 
----
-
 <div align="center">
 <h2>📚 Languages and Tools:</h2>
 </div>
@@ -44,8 +42,6 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/docker compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
-
----
 
 <div align="center">
 <h2>📈 My Github Stats:</h2>
