@@ -9,10 +9,6 @@
 
 - 👯 I’m looking to collaborate on **backend development**
 
-- 👨‍💻 A notable collaboration project is [the Code-Red project.](https://github.com/boogie-bogie/CODE-RED)
-
-- ⚡ All of my projects are available at [https://bit.ly/boogiebogiegie](https://bit.ly/boogiebogiegie)
-
 - 🌱 I’m currently learning **Python, Django, Django REST framework.**
 
 - 📫 How to reach me **boogie.bogiegie@gmail.com**
