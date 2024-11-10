@@ -3,15 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boogie-bogie&label=Profile%20views&color=0e75b6&style=flat" alt="boogie-bogie" /> </p>
 
-- 🔭 I’m currently working on a PoC verification project at [Moneyguard Development Team.](https://github.com/MoneyGuard-Dev)
-
-- 🤝I mostly work with **NestJS(Node.js), Typescript, PostgreSQL, Redis and Docker.**
-
-- 👯 I’m looking to collaborate on **backend development**
-
-- 🌱 I’m currently learning **Python, Django, Django REST framework.**
-
-- 📫 How to reach me **boogie.bogiegie@gmail.com**
+- 🛠️ Working primarily with **NestJS(Node.js), TypeScript, PostgreSQL, Redis, and Docker**
+- 🌱 Currently learning **Terraform and Serverless Architecture with AWS Lambda**
+- 💡 Passionate about **OOP, DDD and Clean Code**, focusing on writing maintainable and reusable code
+- 👯 Open to collaborate on backend development projects
 
 <div align="center">
 <h2>📚 Languages and Tools:</h2>
